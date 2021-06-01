@@ -1,6 +1,0 @@
-ΙΑΣΩΝ ΖΙΩΓΑΣ-p3180057
-ΚΟΚΛΑΣ ΑΘΑΝΑΣΙΟΣ-p3160220
-Endpoint:bdserver2021.postgres.database.azure.com
-Username:examiner@bdserver2021
-Password:examiner
-Database:Airbnb
